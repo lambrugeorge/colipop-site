@@ -1,0 +1,289 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "products": "Products",
+    "news": "News",
+    "resources": "Resources",
+    "testimonials": "Testimonials",
+    "contact": "Contact",
+    "lang": "Language"
+  },
+  "home": {
+    "motto": "SC ColiPop SRL is a bakery producing coliva, desserts and cakes. We offer traditional products and modern reinterpretations for events and special occasions. Discover our products.",
+    "cta_despre": "About Us",
+    "cta_produse": "Products",
+    "cta_contact": "Contact",
+    "welcome": "Welcome to ColiPop",
+    "intro": "SC ColiPop SRL is a bakery producing coliva, desserts and cakes. We offer traditional products and modern reinterpretations for events and special occasions. Discover our products.",
+    "section_about_title": "About us",
+    "section_about_text": "ColiPop is a bakery offering coliva, individual desserts and personalised cakes, with selected ingredients and carefully chosen recipes.",
+    "section_products_title": "Our products",
+    "section_products_text": "Coliva and bakery products – for events and special occasions.",
+    "section_tradition_title": "Tradition and quality",
+    "section_tradition_text": "We use traditional recipes and selected ingredients. We give coliva a new breath while keeping authenticity.",
+    "section_popular_title": "Discover ColiPop",
+    "section_popular_text": "Coliva products, bakery and personalised services for events and special occasions.",
+    "section_popular_products": "Products",
+    "section_popular_products_desc": "Coliva and bakery – traditional recipes.",
+    "section_popular_story": "Our story",
+    "section_popular_story_desc": "Tradition and innovation in every product.",
+    "section_popular_reviews": "Reviews",
+    "section_popular_reviews_desc": "What our customers say about us.",
+    "stats_products": "Products",
+    "stats_tradition": "Tradition",
+    "stats_servicii": "Services",
+    "stats_products_desc": "Coliva, desserts, cakes",
+    "stats_tradition_desc": "Traditional recipes",
+    "stats_servicii_desc": "Customisation and delivery",
+    "quote_text": "Traditional products, made with care. Delivery on time and nice packaging.",
+    "quote_author": "Ion I., client",
+    "cta_title": "Orders or information",
+    "cta_text": "Contact us for orders and details.",
+    "mission_title": "Our Mission",
+    "mission_text": "Coliva products, pastry and personalized services for events and special moments.",
+    "who_title": "Who We Are",
+    "who_text": "Tradition and innovation in every product."
+  },
+  "about": {
+    "title": "About Us",
+    "who": "Who We Are",
+    "who_text": "ColiPop is a bakery producing coliva, desserts and cakes. We combine tradition with innovation to offer quality products for memorials, events and everyday occasions.",
+    "vision": "Our Vision",
+    "vision_text": "To be a reference in the practical preparation of young people for the business world, through bakery activity and coliva products.",
+    "mission": "Our Mission",
+    "mission_text": "We deliver quality bakery and coliva products while developing real business skills.",
+    "team": "Our Team",
+    "partners": "Partners / Coordinating School",
+    "partners_text": "We work with schools and practice company networks to deliver best practices.",
+    "standards": "Standards & Quality",
+    "standards_text": "We follow good practices and, where applicable, ISO standards and national practice company networks.",
+    "colipop_intro": "COLIPOP is the perfect fusion of tradition and innovation, turning coliva into a modern and surprising dessert.",
+    "mission_full": "SC COLIPOP S.R.L. aims to revolutionise the concept of coliva, offering reinterpreted variants of this traditional product.",
+    "presentation_download": "Download company presentation",
+    "presentation_view": "View presentation",
+    "team_coming_soon": "Team members – Details coming soon.",
+    "partners_ceig": "Coordinating school",
+    "market_trends": "The market for traditional products is growing. Consumers appreciate authentic recipes and natural ingredients.",
+    "growth_potential": "Service diversification, expansion through partnerships and digitalisation.",
+    "client_needs": "Authentic taste and freshness; customisation; fast delivery; competitive pricing.",
+    "sales_strategy": "Promotion via social networks; online orders; samples for loyalty; promotional packages.",
+    "competition": "Personalised services, fast delivery. ColiPop combines innovation with tradition.",
+    "services_intro": "Coliva customisation; event delivery; modern brand; personalised individual cups.",
+    "objectives": "Growing demand for traditional products; partnerships with institutions; menu diversification.",
+    "financial": "Equipment and resources from own funds: food truck, kitchen equipment, refrigerator, furniture, POS system."
+  },
+  "products": {
+    "title": "Products",
+    "subtitle": "Coliva and bakery products – discover what we offer",
+    "benefits": "Ingredients",
+    "ingredients": "Ingredients",
+    "price_note": "Indicative price or quote on request",
+    "request_quote": "Request quote",
+    "view_larger": "Enlarge",
+    "close": "Close",
+    "prod1_title": "Product coming soon",
+    "prod1_desc": "Details coming soon.",
+    "prod1_benefits": [],
+    "prod1_price": "Details coming soon",
+    "prod2_title": "Red Velvet Cups",
+    "prod2_desc": "Layered dessert with cream cheese and red velvet cake.",
+    "prod2_benefits": [
+      "Cream cheese",
+      "Red velvet cake",
+      "Individual portion"
+    ],
+    "prod2_price": "18 RON / piece",
+    "prod3_title": "Individual Tiramisu",
+    "prod3_desc": "Traditional Italian tiramisu in individual portions.",
+    "prod3_benefits": [
+      "Italian recipe",
+      "Individual portion",
+      "Fresh"
+    ],
+    "prod3_price": "22 RON / piece",
+    "prod4_title": "ColiPop Special Cake",
+    "prod4_desc": "Festive personalised cake with premium decorations and edible image.",
+    "prod4_benefits": [
+      "Personalised",
+      "Edible image",
+      "Premium decorations"
+    ],
+    "prod4_price": "150 RON",
+    "prod5_title": "Individual Mini Cakes",
+    "prod5_desc": "Individual cakes with premium glazes and artisan decorations.",
+    "prod5_benefits": [
+      "Premium glazes",
+      "Artisan decorations",
+      "Individual portion"
+    ],
+    "prod5_price": "25 RON / piece"
+  },
+  "news": {
+    "title": "News & Blog",
+    "subtitle": "Events, campaigns and articles",
+    "event1": "Trade fair participation",
+    "date1": "2025",
+    "excerpt1": "ColiPop took part in the practice company fair.",
+    "event2": "Marketing campaign",
+    "date2": "2025",
+    "excerpt2": "Campaign launch and stands.",
+    "article1": "Practice company guide",
+    "date3": "2025",
+    "excerpt3": "Useful article about the company's activity.",
+    "featured_title": "Traditional products and quality ingredients – we carry tradition forward",
+    "featured_excerpt": "At ColiPop we use traditional recipes and selected ingredients. Coliva and bakery products are prepared with care, preserving authenticity.",
+    "read_more": "Read more",
+    "featured_body": "At ColiPop we use traditional recipes and selected ingredients. Coliva and bakery products are prepared with care, preserving authenticity. We dedicate ourselves to each product so that it reflects both tradition and a contemporary taste, suitable for memorials, events and everyday moments. Ingredients are chosen with care and recipes followed with attention.",
+    "category_patisserie": "Patisserie",
+    "tags_quality": "quality, tradition, ingredients",
+    "back_to_list": "Back to News"
+  },
+  "resources": {
+    "title": "Resources",
+    "subtitle": "Useful documents and links for students and partners",
+    "documents": "Useful documents",
+    "documents_desc": "Procedures, forms, worksheets",
+    "links": "External links",
+    "ceig_title": "Ion Ghica Economic College Braila",
+    "ceig_desc": "Coordinating school – official website.",
+    "card1_title": "Company details",
+    "card1_desc": "Details coming soon.",
+    "card2_title": "Additional information",
+    "card2_desc": "Details coming soon.",
+    "documents_title": "Useful documents",
+    "documents_subtitle": "Procedures, forms, worksheets",
+    "documents_coming": "Coming soon.",
+    "links_external_title": "External links",
+    "links_external_subtitle": "To practice resources",
+    "links_external_coming": "Coming soon.",
+    "guides_title": "Guides or tutorials",
+    "guides_coming": "Coming soon.",
+    "network_title": "Link to national network / educational portal",
+    "network_ceig": "Ion Ghica Economic College Braila"
+  },
+  "testimonials": {
+    "title": "Testimonials & Feedback",
+    "subtitle": "What clients and partners say about us",
+    "t1_name": "Maria Popescu",
+    "t1_role": "Client, Braila",
+    "t1_text": "I ordered a custom cake for an anniversary and it was absolutely delicious. All the guests were delighted!",
+    "t2_name": "Ion Ionescu",
+    "t2_role": "Client",
+    "t2_text": "Traditional products, made with care. Delivery was on time and the packaging very nice. Thank you!",
+    "t3_name": "Elena Marinescu",
+    "t3_role": "Client",
+    "t3_text": "After many tries elsewhere, I found at ColiPop exactly the taste I was looking for. Quality and reliability."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Write or call us",
+    "form_name": "Name",
+    "form_email": "Email",
+    "form_message": "Message",
+    "form_send": "Send",
+    "form_sending": "Sending...",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "social": "Social media",
+    "privacy_agree": "I agree to the ",
+    "privacy_agree_suffix": " and the processing of my data for responding to my request.",
+    "form_success": "Your message has been sent. We will get back to you soon.",
+    "form_error": "An error occurred. Please try again or contact us at sc.colipop.sr@gmail.com.",
+    "form_privacy_required": "You must accept the Privacy Policy and Captcha.",
+    "form_invalid_email": "Invalid email address.",
+    "form_captcha": "I am not a robot"
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "practice_firm": "SC ColiPop SRL – bakery, coliva and desserts",
+    "menu_title": "Menu",
+    "useful_links": "Useful links",
+    "address_value": "Strada Dimitrie Bolintineanu 16, 810183 Braila",
+    "schedule_value": "Mon - Fri: 08:00 - 15:00",
+    "cookie_policy": "Cookie policy",
+    "privacy_policy": "Privacy policy",
+    "terms": "Terms and conditions"
+  },
+  "legal": {
+    "terms_title": "Terms and Conditions",
+    "privacy_title": "Privacy Policy",
+    "cookies_title": "Cookie Policy",
+    "last_update": "Last updated",
+    "company_info": "Operator: SC COLIPOP S.R.L. | Address: Strada Dimitrie Bolintineanu 16, 810183 Braila | Phone: 0733 194 610 | Email: sc.colipop.sr@gmail.com | Registration details: Coming soon",
+    "terms_intro": "Welcome to the ColiPop website. Please read the terms and conditions below carefully. Accessing and using this site implies explicit acceptance of these conditions.",
+    "terms_sections": [
+      {
+        "title": "1. General Definitions",
+        "content": "The website colipop.ro is administered by SC COLIPOP S.R.L. Terms such as 'Seller', 'We', 'The Company' refer to SC COLIPOP S.R.L. The term 'Client' or 'User' refers to any natural or legal person who accesses the site or places an order."
+      },
+      {
+        "title": "2. Products and Services",
+        "content": "ColiPop is a practice firm (simulation) operating for educational purposes, but also a real bakery according to the activity description. The products presented (coliva, cakes, pastry products) are made according to current regulations. Product images are for presentation purposes and minor differences may exist compared to the final product."
+      },
+      {
+        "title": "3. Orders and Prices",
+        "content": "Displayed prices are in RON and include VAT according to legislation. We reserve the right to modify prices without prior notice, but the confirmed price on a placed order will not be changed. Orders can be placed by phone or via the contact form, to be confirmed by an operator."
+      },
+      {
+        "title": "4. Delivery and Payment",
+        "content": "Delivery is made to the mutually agreed location, within Braila city and surrounding areas. Payment can be made in cash upon delivery or by bank transfer, based on the issued fiscal invoice."
+      },
+      {
+        "title": "5. Right of Return",
+        "content": "According to OUG 34/2014, food products that are liable to deteriorate or expire rapidly are exempted from the right of withdrawal. However, if products are qualitatively non-compliant at the time of delivery, we assume responsibility for replacing them or refunding the value."
+      },
+      {
+        "title": "6. Intellectual Property",
+        "content": "The entire content of the site (texts, images, logos) is the property of SC COLIPOP S.R.L. and is protected by Copyright Law. Use of any elements without the company's written consent is punishable according to laws in force."
+      },
+      {
+        "title": "7. Disputes",
+        "content": "Any dispute arising between Client and Seller will be resolved amicably. If the conflict cannot be resolved amicably, competence lies with the Romanian courts."
+      }
+    ],
+    "privacy_intro": "The confidentiality of your data is important to us. This policy explains what data we collect, how we use it, and what your rights are.",
+    "privacy_sections": [
+      {
+        "title": "1. What Data We Collect",
+        "content": "We collect data that you provide directly, such as: Name and Surname, Email Address, Phone Number (in contact form). We also collect automatic technical data via cookies (IP address, browser type)."
+      },
+      {
+        "title": "2. Purpose of Collection",
+        "content": "Data is used for:\n• Receiving and processing offer requests.\n• Communicating with clients regarding order status.\n• Improving the site experience.\n• Complying with legal obligations (e.g., invoicing)."
+      },
+      {
+        "title": "3. Legal Basis",
+        "content": "Data processing is done based on your consent (by completing the form) or for the execution of a contract (processing an order)."
+      },
+      {
+        "title": "4. Data Disclosure",
+        "content": "We do not sell or rent your personal data. We may transmit data to public authorities if required by law or to strictly necessary service providers (e.g., accounting services, couriers)."
+      },
+      {
+        "title": "5. Your Rights",
+        "content": "According to GDPR Regulation, you have the right to request access to data, rectification, deletion thereof ('right to be forgotten'), or restriction of processing. To exercise these rights, you can contact us at the mentioned email address."
+      }
+    ],
+    "cookies_intro": "Our website uses cookies to offer a better browsing experience and services adapted to user needs.",
+    "cookies_sections": [
+      {
+        "title": "1. What is a 'cookie'?",
+        "content": "A cookie is a small text file stored on your computer or mobile device when you visit the site. It allows the site to 'remember' your actions and preferences for a period of time."
+      },
+      {
+        "title": "2. How do we use cookies?",
+        "content": "We use cookies for:\n• Necessary site functioning (session maintenance).\n• Traffic analysis (via anonymized tools) to understand how visitors interact with the site."
+      },
+      {
+        "title": "3. Types of cookies used",
+        "content": "• Strictly necessary cookies: Essential for navigation.\n• Analysis cookies: Help us improve site structure."
+      },
+      {
+        "title": "4. How can cookies be controlled?",
+        "content": "You can block or delete cookies from your browser settings. Please note that disabling certain cookies may affect site functionality."
+      }
+    ]
+  }
+}

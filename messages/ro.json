@@ -1,0 +1,289 @@
+{
+  "nav": {
+    "home": "Acasă",
+    "about": "Despre Noi",
+    "products": "Produse",
+    "news": "Noutăți",
+    "resources": "Resurse",
+    "testimonials": "Testimoniale",
+    "contact": "Contact",
+    "lang": "Limba"
+  },
+  "home": {
+    "motto": "SC ColiPop SRL este o patiserie care produce colive, deserturi și torturi. Oferim produse tradiționale și reinterpretări moderne, pentru evenimente și momente speciale. Descoperiți produsele noastre.",
+    "cta_despre": "Despre Noi",
+    "cta_produse": "Produse",
+    "cta_contact": "Contact",
+    "welcome": "Bine ați venit la ColiPop",
+    "intro": "SC ColiPop SRL este o patiserie care produce colive, deserturi și torturi. Oferim produse tradiționale și reinterpretări moderne, pentru evenimente și momente speciale. Descoperiți produsele noastre.",
+    "section_about_title": "Despre noi",
+    "section_about_text": "ColiPop este o patiserie care oferă colivă, deserturi individuale și torturi personalizate, cu ingrediente selecte și rețete atent alese.",
+    "section_products_title": "Produsele noastre",
+    "section_products_text": "Coliva și produsele de patiserie – pentru evenimente și momente speciale.",
+    "section_tradition_title": "Tradiție și calitate",
+    "section_tradition_text": "Folosim rețete tradiționale și ingrediente selecte. Dăm un suflu nou colivei, păstrând autenticitatea.",
+    "section_popular_title": "Descoperă ColiPop",
+    "section_popular_text": "Produse cu colivă, patiserie și servicii personalizate pentru evenimente și momente speciale.",
+    "section_popular_products": "Produse",
+    "section_popular_products_desc": "Colivă și patiserie – rețete tradiționale.",
+    "section_popular_story": "Povestea noastră",
+    "section_popular_story_desc": "Tradiție și inovație în fiecare produs.",
+    "section_popular_reviews": "Recenzii",
+    "section_popular_reviews_desc": "Ce spun clienții despre noi.",
+    "stats_products": "Produse",
+    "stats_tradition": "Tradiție",
+    "stats_servicii": "Servicii",
+    "stats_products_desc": "Colivă, deserturi, torturi",
+    "stats_tradition_desc": "Rețete tradiționale",
+    "stats_servicii_desc": "Personalizare și livrare",
+    "quote_text": "Produse tradiționale, făcute cu plăcere. Livrarea la timp și ambalajul foarte frumos.",
+    "quote_author": "Ion I., client",
+    "cta_title": "Comandă sau informații",
+    "cta_text": "Contactați-ne pentru comenzi și detalii.",
+    "mission_title": "Misiunea noastră",
+    "mission_text": "Produse cu colivă, patiserie și servicii personalizate pentru evenimente și momente speciale.",
+    "who_title": "Cine suntem",
+    "who_text": "Tradiție și inovație în fiecare produs."
+  },
+  "about": {
+    "title": "Despre Noi",
+    "who": "Cine suntem",
+    "who_text": "ColiPop este o patiserie care produce colive, deserturi și torturi. Combinăm tradiția cu inovația pentru a oferi produse de calitate pentru pomeniri, evenimente și zilnic.",
+    "vision": "Viziunea noastră",
+    "vision_text": "Să fim o referință în pregătirea practică a tinerilor pentru lumea afacerilor, prin activitate de patiserie și produse cu colivă.",
+    "mission": "Misiunea noastră",
+    "mission_text": "Oferim produse de patiserie și colivă de calitate, în timp ce dezvoltăm competențe reale de business.",
+    "team": "Echipa noastră",
+    "partners": "Parteneri / Școală coordonatoare",
+    "partners_text": "Colaborăm cu școli și parteneri pentru bune practici.",
+    "standards": "Standarde și calitate",
+    "standards_text": "Ne ghidăm după bune practici și, unde este cazul, standarde ISO.",
+    "colipop_intro": "COLIPOP este fuziunea perfectă între tradiție și inovație, transformând coliva într-un desert modern și surprinzător.",
+    "mission_full": "SC COLIPOP S.R.L. își propune să revoluționeze conceptul de colivă, oferind variante reinterpretate ale acestui produs tradițional.",
+    "presentation_download": "Descarcă prezentarea firmei",
+    "presentation_view": "Vizualizare prezentare",
+    "team_coming_soon": "Membrii echipei – Detalii în curând.",
+    "partners_ceig": "Școala coordonatoare",
+    "market_trends": "Piața produselor tradiționale este în creștere. Consumatorii apreciază rețete autentice și ingrediente naturale.",
+    "growth_potential": "Diversificarea serviciilor, extinderea prin parteneriate și digitalizare.",
+    "client_needs": "Gust autentic și prospețime; personalizare; livrare rapidă; preț competitiv.",
+    "sales_strategy": "Promovare prin rețele sociale; comenzi online; mostre pentru fidelizare; pachete promoționale.",
+    "competition": "Servicii personalizate, livrare rapidă. ColiPop combină inovația cu tradiția.",
+    "services_intro": "Personalizare colivă; livrare evenimente; brand modern; pahare individuale personalizate.",
+    "objectives": "Creșterea cererii pentru produse tradiționale; colaborări cu instituții; diversificarea meniului.",
+    "financial": "Echipamente și resurse din fonduri proprii: food truck, echipamente bucătărie, frigider, mobilier, sistem POS."
+  },
+  "products": {
+    "title": "Produse",
+    "subtitle": "Produse cu colivă și patiserie – descoperiți ce oferim",
+    "benefits": "Ingrediente",
+    "ingredients": "Ingrediente",
+    "price_note": "Preț orientativ sau ofertă la cerere",
+    "request_quote": "Solicită ofertă",
+    "view_larger": "Mărire",
+    "close": "Închide",
+    "prod1_title": "Produs în curând",
+    "prod1_desc": "Detalii în curând.",
+    "prod1_benefits": [],
+    "prod1_price": "Detalii în curând",
+    "prod2_title": "Red Velvet Cups",
+    "prod2_desc": "Desert stratificat cu cremă de brânză și blat red velvet.",
+    "prod2_benefits": [
+      "Cremă de brânză",
+      "Blat red velvet",
+      "Porție individuală"
+    ],
+    "prod2_price": "18 RON / bucată",
+    "prod3_title": "Tiramisu Individual",
+    "prod3_desc": "Tiramisu tradițional italian în porții individuale.",
+    "prod3_benefits": [
+      "Rețetă italiană",
+      "Porție individuală",
+      "Proaspăt"
+    ],
+    "prod3_price": "22 RON / bucată",
+    "prod4_title": "Tortul ColiPop Special",
+    "prod4_desc": "Tort festiv personalizat cu decorațiuni premium și imagine comestibilă.",
+    "prod4_benefits": [
+      "Personalizat",
+      "Imagine comestibilă",
+      "Decorațiuni premium"
+    ],
+    "prod4_price": "150 RON",
+    "prod5_title": "Mini Torturi Individuale",
+    "prod5_desc": "Torturi individuale cu glazuri premium și decorațiuni artizanale.",
+    "prod5_benefits": [
+      "Glazuri premium",
+      "Decorațiuni artizanale",
+      "Porție individuală"
+    ],
+    "prod5_price": "25 RON / bucată"
+  },
+  "news": {
+    "title": "Noutăți & Blog",
+    "subtitle": "Evenimente, campanii și articole",
+    "event1": "Participare la târg",
+    "date1": "2025",
+    "excerpt1": "ColiPop a participat la târgul de firme de exercițiu.",
+    "event2": "Campanie de marketing",
+    "date2": "2025",
+    "excerpt2": "Lansare campanie și standuri.",
+    "article1": "Ghid firme de exercițiu",
+    "date3": "2025",
+    "excerpt3": "Articol util despre activitatea firmei.",
+    "featured_title": "Produse tradiționale și ingrediente de calitate – ducem tradiția mai departe",
+    "featured_excerpt": "La ColiPop folosim rețete tradiționale și ingrediente selectate. Coliva și produsele de patiserie sunt pregătite cu grijă, păstrând autenticitatea.",
+    "read_more": "Citește mai mult",
+    "featured_body": "La ColiPop folosim rețete tradiționale și ingrediente selectate. Coliva și produsele de patiserie sunt pregătite cu grijă, păstrând autenticitatea. Ne dedicăm fiecărui produs astfel încât să reflecte atât tradiția, cât și un gust contemporan, potrivit pentru pomeniri, evenimente și momente zilnice. Ingredientele sunt alese cu grijă, iar rețetele sunt respectate cu atenție.",
+    "category_patisserie": "Patiseria",
+    "tags_quality": "calitate, tradiție, ingrediente",
+    "back_to_list": "Înapoi la Noutăți"
+  },
+  "resources": {
+    "title": "Resurse",
+    "subtitle": "Documente și linkuri utile pentru elevi și parteneri",
+    "documents": "Documente utile",
+    "documents_desc": "Proceduri, formulare, fișe de lucru",
+    "links": "Legături externe",
+    "ceig_title": "Colegiul Economic Ion Ghica Brăila",
+    "ceig_desc": "Școala coordonatoare – site oficial.",
+    "card1_title": "Date firmă",
+    "card1_desc": "Detalii în curând.",
+    "card2_title": "Informații suplimentare",
+    "card2_desc": "Detalii în curând.",
+    "documents_title": "Documente utile",
+    "documents_subtitle": "Proceduri, formulare, fișe de lucru",
+    "documents_coming": "În curând.",
+    "links_external_title": "Legături externe",
+    "links_external_subtitle": "Către resurse de practică",
+    "links_external_coming": "În curând.",
+    "guides_title": "Ghiduri sau tutoriale",
+    "guides_coming": "În curând.",
+    "network_title": "Link spre rețeaua națională / portal educațional",
+    "network_ceig": "Colegiul Economic Ion Ghica Brăila"
+  },
+  "testimonials": {
+    "title": "Testimoniale & Feedback",
+    "subtitle": "Ce spun clienții și partenerii despre noi",
+    "t1_name": "Maria Popescu",
+    "t1_role": "Clientă, Brăila",
+    "t1_text": "Am comandat un tort personalizat pentru o aniversare și a fost absolut delicios. Toți invitații au fost încântați!",
+    "t2_name": "Ion Ionescu",
+    "t2_role": "Client",
+    "t2_text": "Produse tradiționale, făcute cu plăcere. Livrarea la timp și ambalajul foarte frumos. Mulțumesc!",
+    "t3_name": "Elena Marinescu",
+    "t3_role": "Clientă",
+    "t3_text": "După multe încercări, am găsit la ColiPop exact gustul pe care îl căutam. Calitate și seriozitate."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Scrieți-ne sau sunați-ne",
+    "form_name": "Nume",
+    "form_email": "E-mail",
+    "form_message": "Mesaj",
+    "form_send": "Trimite",
+    "form_sending": "Se trimite...",
+    "address": "Adresă",
+    "phone": "Telefon",
+    "email": "E-mail",
+    "social": "Rețele sociale",
+    "privacy_agree": "Sunt de acord cu ",
+    "privacy_agree_suffix": " și prelucrarea datelor pentru răspuns la solicitarea mea.",
+    "form_success": "Mesajul a fost trimis. Vă vom răspunde în curând.",
+    "form_error": "A apărut o eroare. Încercați din nou sau contactați-ne la sc.colipop.sr@gmail.com.",
+    "form_privacy_required": "Trebuie să acceptați Politica de confidențialitate și Captcha.",
+    "form_invalid_email": "Adresa de email nu este validă.",
+    "form_captcha": "Nu sunt robot"
+  },
+  "footer": {
+    "rights": "Toate drepturile rezervate.",
+    "practice_firm": "SC ColiPop SRL – patiserie, colivă și deserturi",
+    "menu_title": "Meniu",
+    "useful_links": "Link-uri utile",
+    "address_value": "Strada Dimitrie Bolintineanu 16, 810183 Brăila",
+    "schedule_value": "Luni - Vineri: 08:00 - 15:00",
+    "cookie_policy": "Politica de utilizare cookie-uri",
+    "privacy_policy": "Politica de confidențialitate",
+    "terms": "Termeni și condiții"
+  },
+  "legal": {
+    "terms_title": "Termeni și condiții",
+    "privacy_title": "Politica de confidențialitate",
+    "cookies_title": "Politica de utilizare cookie-uri",
+    "last_update": "Ultima actualizare",
+    "company_info": "Operator: SC COLIPOP S.R.L. | Adresă: Strada Dimitrie Bolintineanu 16, 810183 Brăila | Tel: 0733 194 610 | Email: sc.colipop.sr@gmail.com | Date identificare: În curând",
+    "terms_intro": "Bine ați venit pe site-ul ColiPop. Vă rugăm să citiți cu atenție termenii și condițiile de mai jos. Accesarea și utilizarea acestui site implică acceptarea explicită a acestor condiții.",
+    "terms_sections": [
+      {
+        "title": "1. Definiții Generale",
+        "content": "Site-ul colipop.ro este administrat de SC COLIPOP S.R.L. Termeni precum 'Vânzător', 'Noi', 'Compania' se referă la SC COLIPOP S.R.L. Termenul 'Client' sau 'Utilizator' se referă la orice persoană fizică sau juridică care accesează site-ul sau plasează o comandă."
+      },
+      {
+        "title": "2. Produse și Servicii",
+        "content": "ColiPop este o firmă de exercițiu (simulare) care operează în scop educațional, dar și o patiserie reală conform descrierii de activitate. Produsele prezentate (colivă, torturi, produse de patiserie) sunt realizate conform normelor în vigoare. Imaginile produselor au titlu de prezentare și pot exista diferențe minore față de produsul final."
+      },
+      {
+        "title": "3. Comenzi și Prețuri",
+        "content": "Prețurile afișate sunt în RON și includ TVA conform legislației. Ne rezervăm dreptul de a modifica prețurile fără notificare prealabilă, însă prețul confirmat pe o comandă plasată nu va fi modificat. Comenzile pot fi plasate telefonic sau prin formularul de contact, urmând a fi confirmate de un operator."
+      },
+      {
+        "title": "4. Livrare și Plată",
+        "content": "Livrarea se face la locația stabilită de comun acord, în raza municipiului Brăila și zonele limitrofe. Plata se poate efectua numerar la livrare sau prin transfer bancar, pe baza facturii fiscale emise."
+      },
+      {
+        "title": "5. Dreptul de Retur",
+        "content": "Conform OUG 34/2014, produsele alimentare care sunt susceptibile a se deteriora sau a expira rapid sunt exceptate de la dreptul de retragere. Totuși, dacă produsele sunt neconforme calitativ la momentul livrării, ne asumăm înlocuirea acestora sau restituirea contravalorii."
+      },
+      {
+        "title": "6. Proprietate Intelectuală",
+        "content": "Întreg conținutul site-ului (texte, imagini, logo-uri) este proprietatea SC COLIPOP S.R.L. și este protejat de Legea dreptului de autor. Folosirea fără acordul scris al companiei a oricăror elemente se pedepsește conform legilor în vigoare."
+      },
+      {
+        "title": "7. Litigii",
+        "content": "Orice litigiu apărut între Client și Vânzător va fi rezolvat pe cale amiabilă. În cazul în care nu s-a reușit stingerea conflictului pe cale amiabilă, competența revine instanțelor de judecată române."
+      }
+    ],
+    "privacy_intro": "Confidențialitatea datelor dumneavoastră este importantă pentru noi. Această politică explică ce date colectăm, cum le folosim și care sunt drepturile dumneavoastră.",
+    "privacy_sections": [
+      {
+        "title": "1. Ce date colectăm",
+        "content": "Colectăm date pe care ni le furnizați direct, cum ar fi: Nume și Prenume, Adresa de E-mail, Număr de telefon (în formularul de contact). De asemenea, colectăm date tehnice automate prin cookie-uri (adresa IP, tipul de browser)."
+      },
+      {
+        "title": "2. Scopul Colectării",
+        "content": "Datele sunt folosite pentru:\n• Preluarea și procesarea solicitărilor de ofertă.\n• Comunicarea cu clienții privind statusul comenzilor.\n• Îmbunătățirea experienței pe site.\n• Conformarea cu obligațiile legale (ex. facturare)."
+      },
+      {
+        "title": "3. Temeiul Legal",
+        "content": "Prelucrarea datelor se face în baza consimțământului dumneavoastră (prin completarea formularului) sau pentru executarea unui contract (procesarea unei comenzi)."
+      },
+      {
+        "title": "4. Divulgarea Datelor",
+        "content": "Nu vindem și nu închiriem datele dumneavoastră personale. Putem transmite datele către autorități publice dacă legea o impune sau către furnizori de servicii strict necesari (ex. servicii de contabilitate, curierat)."
+      },
+      {
+        "title": "5. Drepturile Dumneavoastră",
+        "content": "Conform Regulamentului GDPR, aveți dreptul de a solicita accesul la date, rectificarea, ștergerea acestora ('dreptul de a fi uitat') sau restricționarea prelucrării. Pentru exercitarea acestor drepturi, ne puteți contacta la adresa de e-mail menționată."
+      }
+    ],
+    "cookies_intro": "Site-ul nostru utilizează cookie-uri pentru a oferi o experiență mai bună de navigare și servicii adaptate nevoilor utilizatorilor.",
+    "cookies_sections": [
+      {
+        "title": "1. Ce este un 'cookie'?",
+        "content": "Un cookie este un fișier text de mici dimensiuni, stocat pe computerul sau dispozitivul dumneavoastră mobil atunci când vizitați site-ul. Acesta permite site-ului să 'țină minte' acțiunile și preferințele dumneavoastră pentru o perioadă de timp."
+      },
+      {
+        "title": "2. Cum folosim cookie-urile?",
+        "content": "Folosim cookie-uri pentru:\n• Funcționarea necesară a site-ului (menținerea sesiunii).\n• Analiza traficului (prin instrumente anonimizate) pentru a înțelege cum interacționează vizitatorii cu site-ul."
+      },
+      {
+        "title": "3. Tipuri de cookie-uri folosite",
+        "content": "• Cookie-uri strict necesare: Esențiale pentru navigare.\n• Cookie-uri de analiză: Ne ajută să îmbunătățim structura site-ului."
+      },
+      {
+        "title": "4. Cum pot fi controlate cookie-urile?",
+        "content": "Puteți bloca sau șterge cookie-urile din setările browserului dumneavoastră. Vă rugăm să rețineți că dezactivarea anumitor cookie-uri poate afecta funcționalitatea site-ului."
+      }
+    ]
+  }
+}
