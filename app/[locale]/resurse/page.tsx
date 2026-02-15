@@ -141,12 +141,14 @@ export default async function ResourcesPage({ params }: Props) {
           rel="noopener noreferrer"
           className="group inline-flex items-center gap-6 bg-white px-8 py-6 rounded-3xl border-2 border-[#E8DDB8] shadow-lg hover:border-[#e8b86d] hover:shadow-xl transition-all hover:-translate-y-1 mx-auto"
         >
-          <div className="relative w-24 h-24 rounded-full border border-gray-100 overflow-hidden bg-gray-50 p-2">
+          <div className="relative flex items-center justify-center w-24 h-24 rounded-full border border-gray-100 overflow-hidden bg-white">
             <Image
               src="/ceig.jfif"
               alt={t("ceig_title")}
-              fill
+              width={80}
+              height={80}
               className="object-contain"
+              unoptimized
             />
           </div>
           <div className="text-left">

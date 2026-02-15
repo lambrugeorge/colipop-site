@@ -2,7 +2,6 @@
 import { setRequestLocale } from "next-intl/server";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
-import ImageWithFallback from "@/components/ImageWithFallback";
 import Organigrama from "@/components/Organigrama";
 import { Building2, Hash, FileText, Landmark, MapPin, GraduationCap, Briefcase } from "lucide-react";
 
@@ -180,13 +179,14 @@ export default async function DespreNoiPage({ params }: Props) {
           rel="noopener noreferrer"
           className="group inline-flex flex-col items-center justify-center p-6 bg-white rounded-3xl shadow-lg border border-[#E8DDB8] hover:border-[#e8b86d] transition-all hover:-translate-y-1 hover:shadow-xl max-w-sm mx-auto"
         >
-          <div className="relative w-48 h-24 mb-4">
+          <div className="relative flex items-center justify-center w-full h-24 mb-4">
             <Image
               src="/ceig.jfif"
               alt={tRes("ceig_title")}
-              fill
+              width={150}
+              height={80}
               className="object-contain"
-              sizes="200px"
+              unoptimized
             />
           </div>
           <span className="font-bold text-[#1a1510] group-hover:text-[#e8b86d] transition-colors text-lg">
