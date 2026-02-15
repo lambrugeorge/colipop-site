@@ -53,6 +53,8 @@ export default function ContactForm() {
             type="email"
             name="email"
             required
+            pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$"
+            title="Introduceți o adresă de email validă"
             className="rounded-lg border-2 border-[#E8DDB8] bg-[#FFFEF7] px-4 py-2.5 text-[#1a1510] placeholder-[#5c4a3a]/60 outline-none focus:border-[#F79A19] focus:ring-2 focus:ring-[#F79A19]/30"
             placeholder=""
           />

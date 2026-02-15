@@ -3,6 +3,7 @@
     "home": "Acasă",
     "about": "Despre Noi",
     "products": "Produse",
+    "shop": "Magazin",
     "news": "Noutăți",
     "resources": "Resurse",
     "testimonials": "Testimoniale",
@@ -43,7 +44,26 @@
     "mission_title": "Misiunea noastră",
     "mission_text": "Produse cu colivă, patiserie și servicii personalizate pentru evenimente și momente speciale.",
     "who_title": "Cine suntem",
-    "who_text": "Tradiție și inovație în fiecare produs."
+    "who_text": "Tradiție și inovație în fiecare produs.",
+    "promo_banner": "Ofertă specială: 10% reducere la prima comandă online!",
+    "promo_cta": "Cumpără acum",
+    "offer_badge": "Ofertă Specială",
+    "offer_title": "Comandă online și primești 10% reducere",
+    "offer_text": "Prima ta comandă din magazinul online vine cu o reducere specială de 10%. Livrare gratuită pentru comenzi peste 100 RON în Brăila.",
+    "offer_shop": "Magazin Online",
+    "offer_prices": "Lista de Prețuri",
+    "price_list_title": "Lista de Prețuri",
+    "price_list_subtitle": "Prețuri orientative pentru produsele noastre (TVA inclus)",
+    "price_product": "Produs",
+    "price_amount": "Preț",
+    "price_item1": "Colivă tradițională (1 kg)",
+    "price_item2": "Red Velvet Cups",
+    "price_item3": "Tiramisu Individual",
+    "price_item4": "Tortul ColiPop Special",
+    "price_item5": "Mini Torturi Individuale",
+    "price_item6": "Colivă specială cu ornamente (1 kg)",
+    "price_note": "* Prețurile includ TVA. Prețurile se pot modifica fără notificare prealabilă. Pentru comenzi mari, contactați-ne pentru ofertă personalizată.",
+    "feedback_cta": "Completează Chestionar"
   },
   "about": {
     "title": "Despre Noi",
@@ -71,7 +91,36 @@
     "competition": "Servicii personalizate, livrare rapidă. ColiPop combină inovația cu tradiția.",
     "services_intro": "Personalizare colivă; livrare evenimente; brand modern; pahare individuale personalizate.",
     "objectives": "Creșterea cererii pentru produse tradiționale; colaborări cu instituții; diversificarea meniului.",
-    "financial": "Echipamente și resurse din fonduri proprii: food truck, echipamente bucătărie, frigider, mobilier, sistem POS."
+    "financial": "Echipamente și resurse din fonduri proprii: food truck, echipamente bucătărie, frigider, mobilier, sistem POS.",
+    "company_details_title": "Date de Identificare Firmă",
+    "company_data_title": "Date de Identificare Firmă de Exercițiu",
+    "company_name_label": "Denumire",
+    "reg_com_label": "Registrul Comerțului",
+    "address_label": "Sediul Social",
+    "phone_label": "Telefon",
+    "schedule_label": "Program",
+    "activity_label": "Domeniu de activitate",
+    "activity_value": "Patiserie – Producție și comercializare colivă, torturi și deserturi",
+    "professors_label": "Profesori Coordonatori",
+    "professors_value": "Feichter Narcisa Liliana, Istrate Camelia",
+    "iban_label": "IBAN",
+    "iban_value": "RO25ROCT8325208210890001",
+    "spot_title": "Spot Publicitar",
+    "cui_cert_title": "Certificat de Înregistrare (CUI)"
+  },
+  "organigrama": {
+    "title": "Organigrama Firmei",
+    "subtitle": "Structura organizatorică a SC COLIPOP S.R.L.",
+    "director_role": "Director General",
+    "director_name": "Echipa ColiPop",
+    "prod_role": "Departament Producție",
+    "prod_name": "Patiserie & Preparare",
+    "marketing_role": "Departament Marketing",
+    "marketing_name": "Promovare & Vânzări",
+    "finance_role": "Departament Financiar",
+    "finance_name": "Contabilitate & Buget",
+    "hr_role": "Resurse Umane",
+    "hr_name": "Personal & Organizare"
   },
   "products": {
     "title": "Produse",
@@ -80,12 +129,17 @@
     "ingredients": "Ingrediente",
     "price_note": "Preț orientativ sau ofertă la cerere",
     "request_quote": "Solicită ofertă",
-    "view_larger": "Mărire",
+    "view_larger": "Mărește",
     "close": "Închide",
-    "prod1_title": "Produs în curând",
-    "prod1_desc": "Detalii în curând.",
-    "prod1_benefits": [],
-    "prod1_price": "Detalii în curând",
+    "prod1_title": "Colivă Tradițională",
+    "prod1_desc": "Colivă preparată după rețeta tradițională românească, cu grâu fiert și nucă.",
+    "prod1_benefits": [
+      "Grâu fiert",
+      "Nucă",
+      "Zahăr pudră",
+      "Ornamente tradiționale"
+    ],
+    "prod1_price": "45 RON / kg",
     "prod2_title": "Red Velvet Cups",
     "prod2_desc": "Desert stratificat cu cremă de brânză și blat red velvet.",
     "prod2_benefits": [
@@ -119,6 +173,99 @@
     ],
     "prod5_price": "25 RON / bucată"
   },
+  "shop": {
+    "title": "Magazin Online",
+    "subtitle": "Comandă direct de pe site – livrare în Brăila și împrejurimi",
+    "view_cart": "Coș",
+    "add_to_cart": "Adaugă în coș",
+    "added": "Adăugat!",
+    "cart_title": "Coșul tău",
+    "cart_empty": "Coșul este gol",
+    "cart_empty_desc": "Adaugă produse din magazin pentru a începe comanda.",
+    "total": "Total",
+    "checkout": "Finalizează comanda",
+    "remove": "Șterge",
+    "promo_title": "Ofertă de lansare: 10% reducere la prima comandă!",
+    "promo_desc": "Folosește codul COLIPOP10 la checkout. Livrare gratuită peste 100 RON.",
+    "cat_all": "Toate",
+    "cat_coliva": "Colivă",
+    "cat_deserturi": "Deserturi",
+    "cat_torturi": "Torturi",
+    "sp1_title": "Colivă Tradițională (1 kg)",
+    "sp1_desc": "Colivă preparată după rețeta tradițională românească, cu grâu fiert și nucă.",
+    "sp2_title": "Red Velvet Cups",
+    "sp2_desc": "Desert stratificat cu cremă de brânză și blat red velvet.",
+    "sp3_title": "Tiramisu Individual",
+    "sp3_desc": "Tiramisu tradițional italian în porții individuale.",
+    "sp4_title": "Tortul ColiPop Special",
+    "sp4_desc": "Tort festiv personalizat cu decorațiuni premium.",
+    "sp5_title": "Mini Torturi Individuale",
+    "sp5_desc": "Torturi individuale cu glazuri premium și decorațiuni artizanale.",
+    "sp6_title": "Colivă Specială cu Ornamente (1 kg)",
+    "sp6_desc": "Colivă cu ornamente deosebite, personalizată pentru evenimente speciale.",
+    "pay_secure_title": "Plată Sigură",
+    "pay_secure_desc": "Plata se face numerar la livrare sau prin transfer bancar securizat.",
+    "pay_delivery_title": "Livrare Rapidă",
+    "pay_delivery_desc": "Livrăm în 24-48 ore în Brăila și zonele limitrofe.",
+    "pay_confirm_title": "Confirmare Email",
+    "pay_confirm_desc": "Primiți confirmare prin email cu detalii comandă și termen de livrare."
+  },
+  "checkout": {
+    "title": "Finalizare Comandă",
+    "step_details": "Date",
+    "step_payment": "Plată",
+    "step_confirm": "Confirmare",
+    "name": "Nume complet",
+    "phone": "Telefon",
+    "email": "Email",
+    "address": "Adresă livrare",
+    "notes": "Observații (opțional)",
+    "continue": "Continuă",
+    "back": "Înapoi",
+    "payment_method": "Modalitate de plată",
+    "pay_cash": "Plata ramburs (la livrare)",
+    "pay_cash_desc": "Plătiți numerar la primirea comenzii.",
+    "pay_transfer": "Transfer bancar",
+    "pay_transfer_desc": "Plătiți prin transfer bancar pe baza facturii emise.",
+    "order_summary": "Rezumat comandă",
+    "your_order": "Comanda ta",
+    "total": "Total",
+    "place_order": "Plasează comanda",
+    "success_title": "Comanda a fost plasată cu succes!",
+    "success_text": "Vă mulțumim pentru comandă. Veți primi un email de confirmare cu detaliile comenzii și termenul de livrare estimat.",
+    "success_email": "Un email de confirmare a fost trimis la adresa specificată cu detaliile comenzii, costul total și termenul de livrare.",
+    "company_details": "Date ofertant",
+    "empty_cart": "Coșul este gol",
+    "empty_cart_desc": "Adăugați produse din magazin pentru a putea finaliza comanda."
+  },
+  "chat": {
+    "title": "Chat ColiPop",
+    "online": "Online acum",
+    "placeholder": "Scrieți un mesaj..."
+  },
+  "questionnaire": {
+    "page_title": "Chestionar Online",
+    "page_subtitle": "Ajută-ne să ne îmbunătățim – completează chestionarul de satisfacție",
+    "step": "Întrebarea",
+    "q1": "Cum evaluați calitatea produselor ColiPop?",
+    "q2": "Cum ați aflat despre noi?",
+    "q2_opt1": "Rețele sociale (Instagram, TikTok)",
+    "q2_opt2": "Recomandare de la prieteni/familie",
+    "q2_opt3": "Târg de firme de exercițiu",
+    "q2_opt4": "Alt mod",
+    "q3": "Cât de probabil este să recomandați ColiPop prietenilor?",
+    "q4": "Ce produs doriți să vedeți în meniul nostru?",
+    "q4_opt1": "Mai multe tipuri de colivă",
+    "q4_opt2": "Deserturi noi (eclair, macarons)",
+    "q4_opt3": "Produse fără gluten/vegan",
+    "q5": "Aveți sugestii sau comentarii pentru noi?",
+    "text_placeholder": "Scrieți aici...",
+    "prev": "Înapoi",
+    "next": "Următoarea",
+    "submit": "Trimite",
+    "thanks_title": "Mulțumim pentru răspunsuri!",
+    "thanks_text": "Feedback-ul dumneavoastră ne ajută să ne îmbunătățim continuu. Răspunsurile vor fi analizate cu atenție."
+  },
   "news": {
     "title": "Noutăți & Blog",
     "subtitle": "Evenimente, campanii și articole",
@@ -147,18 +294,11 @@
     "links": "Legături externe",
     "ceig_title": "Colegiul Economic Ion Ghica Brăila",
     "ceig_desc": "Școala coordonatoare – site oficial.",
-    "card1_title": "Date firmă",
-    "card1_desc": "Detalii în curând.",
-    "card2_title": "Informații suplimentare",
-    "card2_desc": "Detalii în curând.",
-    "documents_title": "Documente utile",
-    "documents_subtitle": "Proceduri, formulare, fișe de lucru",
-    "documents_coming": "În curând.",
-    "links_external_title": "Legături externe",
-    "links_external_subtitle": "Către resurse de practică",
-    "links_external_coming": "În curând.",
-    "guides_title": "Ghiduri sau tutoriale",
-    "guides_coming": "În curând.",
+    "documents_title": "Documente Oficiale",
+    "documents_subtitle": "Vizualizare și descărcare documente",
+    "links_external_title": "Rețele Sociale",
+    "links_external_subtitle": "Urmărește-ne online",
+    "guides_title": "Ghiduri și Materiale Media",
     "network_title": "Link spre rețeaua națională / portal educațional",
     "network_ceig": "Colegiul Economic Ion Ghica Brăila"
   },
@@ -193,96 +333,183 @@
     "form_error": "A apărut o eroare. Încercați din nou sau contactați-ne la sc.colipop.sr@gmail.com.",
     "form_privacy_required": "Trebuie să acceptați Politica de confidențialitate și Captcha.",
     "form_invalid_email": "Adresa de email nu este validă.",
-    "form_captcha": "Nu sunt robot"
+    "form_captcha": "Nu sunt robot",
+    "company_id": "Date de Identificare Firmă de Exercițiu",
+    "company_name_label": "Denumire firmă",
+    "reg_com_label": "Reg. Comerțului",
+    "map_title": "Situare Geografică",
+    "map_subtitle": "Ne găsiți la Colegiul Economic 'Ion Ghica', Brăila"
   },
   "footer": {
     "rights": "Toate drepturile rezervate.",
     "practice_firm": "SC ColiPop SRL – patiserie, colivă și deserturi",
     "menu_title": "Meniu",
     "useful_links": "Link-uri utile",
-    "address_value": "Strada Dimitrie Bolintineanu 16, 810183 Brăila",
+    "address_value": "Colegiul Economic 'Ion Ghica', Brăila, jud. Brăila",
+    "address_label": "Sediul Social",
     "schedule_value": "Luni - Vineri: 08:00 - 15:00",
     "cookie_policy": "Politica de utilizare cookie-uri",
     "privacy_policy": "Politica de confidențialitate",
-    "terms": "Termeni și condiții"
+    "terms": "Termeni și condiții",
+    "delivery_policy": "Politica de livrare",
+    "return_policy": "Politica de retur",
+    "payment_policy": "Politica de plată",
+    "how_to_order": "Cum comand?",
+    "location_title": "Locația Noastră"
   },
   "legal": {
     "terms_title": "Termeni și condiții",
     "privacy_title": "Politica de confidențialitate",
     "cookies_title": "Politica de utilizare cookie-uri",
-    "last_update": "Ultima actualizare",
-    "company_info": "Operator: SC COLIPOP S.R.L. | Adresă: Strada Dimitrie Bolintineanu 16, 810183 Brăila | Tel: 0733 194 610 | Email: sc.colipop.sr@gmail.com | Date identificare: În curând",
-    "terms_intro": "Bine ați venit pe site-ul ColiPop. Vă rugăm să citiți cu atenție termenii și condițiile de mai jos. Accesarea și utilizarea acestui site implică acceptarea explicită a acestor condiții.",
+    "last_update": "",
+    "company_info": "Operator: COLIPOP S.R.L. | Sediul: Colegiul Economic 'Ion Ghica', Brăila | Tel: 0733 194 610 | Email: sc.colipop.sr@gmail.com",
+    "terms_intro": "Vă rugăm să citiți cu atenție termenii și condițiile de utilizare a site-ului ColiPop. Accesarea și utilizarea acestui site implică acceptarea explicită a acestor condiții.",
     "terms_sections": [
       {
-        "title": "1. Definiții Generale",
-        "content": "Site-ul colipop.ro este administrat de SC COLIPOP S.R.L. Termeni precum 'Vânzător', 'Noi', 'Compania' se referă la SC COLIPOP S.R.L. Termenul 'Client' sau 'Utilizator' se referă la orice persoană fizică sau juridică care accesează site-ul sau plasează o comandă."
+        "title": "1. Dispoziții Generale",
+        "content": "Prezentul document stabilește termenii și condițiile de utilizare a site-ului colipop.ro, administrat de SC COLIPOP S.R.L. Accesarea, vizitarea și plasarea comenzilor pe acest site implică acceptarea termenilor de mai jos. Societatea își rezervă dreptul de a modifica acești termeni oricând, fără o notificare prealabilă, versiunea actualizată fiind întotdeauna disponibilă pe site."
       },
       {
-        "title": "2. Produse și Servicii",
-        "content": "ColiPop este o firmă de exercițiu (simulare) care operează în scop educațional, dar și o patiserie reală conform descrierii de activitate. Produsele prezentate (colivă, torturi, produse de patiserie) sunt realizate conform normelor în vigoare. Imaginile produselor au titlu de prezentare și pot exista diferențe minore față de produsul final."
+        "title": "2. Produse și Politica Comercială",
+        "content": "ColiPop comercializează produse de patiserie și cofetărie (colivă, torturi, prăjituri). Produsele sunt realizate respectând normele de igienă și siguranță alimentară. Fotografiile produselor au caracter informativ; pot exista mici diferențe față de produsul real, fără a afecta însă calitatea sau gramajul acestuia."
       },
       {
-        "title": "3. Comenzi și Prețuri",
-        "content": "Prețurile afișate sunt în RON și includ TVA conform legislației. Ne rezervăm dreptul de a modifica prețurile fără notificare prealabilă, însă prețul confirmat pe o comandă plasată nu va fi modificat. Comenzile pot fi plasate telefonic sau prin formularul de contact, urmând a fi confirmate de un operator."
+        "title": "3. Comenzi și Procedura de Livrare",
+        "content": "Comenzile se plasează online sau telefonic. Termenul de livrare este de 24-48 de ore pentru produsele standard, iar pentru comenzile speciale termenul se stabilește de comun acord. Livrarea se efectuează în municipiul Brăila și zonele limitrofe. Costul livrării (dacă este cazul) va fi comunicat înainte de finalizarea comenzii."
       },
       {
-        "title": "4. Livrare și Plată",
-        "content": "Livrarea se face la locația stabilită de comun acord, în raza municipiului Brăila și zonele limitrofe. Plata se poate efectua numerar la livrare sau prin transfer bancar, pe baza facturii fiscale emise."
+        "title": "4. Prețuri și Plată",
+        "content": "Toate prețurile sunt exprimate în RON și includ TVA. Plata se poate efectua: (a) Ramburs, la livrarea produselor; (b) Prin transfer bancar, în baza facturii emise. Produsul rămâne proprietatea vânzătorului până la achitarea integrală."
       },
       {
-        "title": "5. Dreptul de Retur",
-        "content": "Conform OUG 34/2014, produsele alimentare care sunt susceptibile a se deteriora sau a expira rapid sunt exceptate de la dreptul de retragere. Totuși, dacă produsele sunt neconforme calitativ la momentul livrării, ne asumăm înlocuirea acestora sau restituirea contravalorii."
+        "title": "5. Politica de Retur și Reclamații",
+        "content": "Conform legislației (OUG 34/2014), produsele alimentare perisabile sunt exceptate de la dreptul de retur. Totuși, dacă la recepție constatați că produsul este neconform (deteriorat, alt produs decât cel comandat), acesta va fi înlocuit sau vi se va restitui contravaloarea. Reclamațiile se fac în momentul livrării sau maxim 24h de la primire."
       },
       {
-        "title": "6. Proprietate Intelectuală",
-        "content": "Întreg conținutul site-ului (texte, imagini, logo-uri) este proprietatea SC COLIPOP S.R.L. și este protejat de Legea dreptului de autor. Folosirea fără acordul scris al companiei a oricăror elemente se pedepsește conform legilor în vigoare."
+        "title": "6. Drepturi de Autor",
+        "content": "Conținutul site-ului (texte, grafică, logo) aparține SC COLIPOP S.R.L. și este protejat de legea drepturilor de autor. Copierea sau utilizarea fără acord scris este interzisă."
       },
       {
-        "title": "7. Litigii",
-        "content": "Orice litigiu apărut între Client și Vânzător va fi rezolvat pe cale amiabilă. În cazul în care nu s-a reușit stingerea conflictului pe cale amiabilă, competența revine instanțelor de judecată române."
+        "title": "7. Forță Majoră și Litigii",
+        "content": "Niciuna dintre părți nu răspunde pentru neexecutarea obligațiilor în caz de forță majoră. Eventualele litigii se vor rezolva pe cale amiabilă; dacă nu este posibil, competența revine instanțelor de judecată din România."
       }
     ],
-    "privacy_intro": "Confidențialitatea datelor dumneavoastră este importantă pentru noi. Această politică explică ce date colectăm, cum le folosim și care sunt drepturile dumneavoastră.",
+    "privacy_intro": "Respectăm confidențialitatea datelor dumneavoastră și ne angajăm să le protejăm conform Regulamentului (UE) 2016/679 (GDPR). Această politică detaliază modul în care prelucrăm datele personale.",
     "privacy_sections": [
       {
-        "title": "1. Ce date colectăm",
-        "content": "Colectăm date pe care ni le furnizați direct, cum ar fi: Nume și Prenume, Adresa de E-mail, Număr de telefon (în formularul de contact). De asemenea, colectăm date tehnice automate prin cookie-uri (adresa IP, tipul de browser)."
+        "title": "1. Categorii de Date Prelucrate",
+        "content": "Prelucrăm datele furnizate direct de dumneavoastră: Nume, Prenume, Telefon, Adresă de E-mail, Adresă de livrare. Nu colectăm date sensibile (ex: originea etnică, convingeri religioase)."
       },
       {
-        "title": "2. Scopul Colectării",
-        "content": "Datele sunt folosite pentru:\n• Preluarea și procesarea solicitărilor de ofertă.\n• Comunicarea cu clienții privind statusul comenzilor.\n• Îmbunătățirea experienței pe site.\n• Conformarea cu obligațiile legale (ex. facturare)."
+        "title": "2. Scopurile Prelucrării",
+        "content": "Utilizăm datele pentru: (a) Procesarea comenzilor și livrarea produselor; (b) Comunicarea stării comenzii; (c) Emiterea documentelor fiscale; (d) Rezolvarea reclamațiilor; (e) Îmbunătățirea serviciilor oferite."
       },
       {
-        "title": "3. Temeiul Legal",
-        "content": "Prelucrarea datelor se face în baza consimțământului dumneavoastră (prin completarea formularului) sau pentru executarea unui contract (procesarea unei comenzi)."
+        "title": "3. Durata Păstrării Datelor",
+        "content": "Datele necesare facturării sunt păstrate conform termenelor legale (10 ani). Datele de contact sunt păstrate atât timp cât este necesar pentru scopurile menționate sau până la solicitarea de ștergere, cu excepția cazurilor impuse de lege."
       },
       {
-        "title": "4. Divulgarea Datelor",
-        "content": "Nu vindem și nu închiriem datele dumneavoastră personale. Putem transmite datele către autorități publice dacă legea o impune sau către furnizori de servicii strict necesari (ex. servicii de contabilitate, curierat)."
+        "title": "4. Destinatarii Datelor",
+        "content": "Datele nu sunt vândute către terți. Ele pot fi transmise partenerilor contractuali (firme de curierat, servicii de contabilitate) doar în scopul executării serviciilor, sau autorităților publice dacă există o obligație legală."
       },
       {
         "title": "5. Drepturile Dumneavoastră",
-        "content": "Conform Regulamentului GDPR, aveți dreptul de a solicita accesul la date, rectificarea, ștergerea acestora ('dreptul de a fi uitat') sau restricționarea prelucrării. Pentru exercitarea acestor drepturi, ne puteți contacta la adresa de e-mail menționată."
+        "content": "Aveți dreptul de a solicita accesul la date, rectificarea datelor inexacte, ștergerea lor, restricționarea prelucrării sau portabilitatea datelor. Pentru orice solicitare, contactați-ne la sc.colipop.sr@gmail.com."
       }
     ],
-    "cookies_intro": "Site-ul nostru utilizează cookie-uri pentru a oferi o experiență mai bună de navigare și servicii adaptate nevoilor utilizatorilor.",
+    "cookies_intro": "Site-ul nostru folosește cookie-uri și tehnologii similare pentru a asigura funcționalitatea optimă și pentru a analiza traficul.",
     "cookies_sections": [
       {
-        "title": "1. Ce este un 'cookie'?",
-        "content": "Un cookie este un fișier text de mici dimensiuni, stocat pe computerul sau dispozitivul dumneavoastră mobil atunci când vizitați site-ul. Acesta permite site-ului să 'țină minte' acțiunile și preferințele dumneavoastră pentru o perioadă de timp."
+        "title": "1. Ce sunt Cookie-urile?",
+        "content": "Cookie-urile sunt fișiere mici de text care se salvează pe dispozitivul dumneavoastră. Ele nu conțin viruși și nu pot accesa alte informații de pe hard disk. Ele ajută site-ul să rețină preferințele utilizatorului."
       },
       {
-        "title": "2. Cum folosim cookie-urile?",
-        "content": "Folosim cookie-uri pentru:\n• Funcționarea necesară a site-ului (menținerea sesiunii).\n• Analiza traficului (prin instrumente anonimizate) pentru a înțelege cum interacționează vizitatorii cu site-ul."
+        "title": "2. Tipuri de Cookie-uri Utilizate",
+        "content": "• Cookie-uri necesare: Indispensabile pentru funcționarea site-ului (ex: funcționarea coșului de cumpărături).\n• Cookie-uri de performanță/analiză: Ne ajută să vedem câte vizite avem și ce pagini sunt populare (datele sunt anonimizate)."
       },
       {
-        "title": "3. Tipuri de cookie-uri folosite",
-        "content": "• Cookie-uri strict necesare: Esențiale pentru navigare.\n• Cookie-uri de analiză: Ne ajută să îmbunătățim structura site-ului."
+        "title": "3. Gestionarea Cookie-urilor",
+        "content": "Majoritatea browserelor acceptă cookie-uri automat, dar puteți modifica setările pentru a le refuza sau șterge. Refuzarea cookie-urilor necesare poate afecta buna funcționare a magazinului online."
+      }
+    ]
+  },
+  "delivery": {
+    "title": "Politica de Livrare",
+    "intro": "Livrarea produselor ColiPop se realizează rapid și în siguranță, respectând toate normele de igienă.",
+    "sections": [
+      {
+        "title": "1. Aria de Livrare",
+        "content": "Livrarea se efectuează exclusiv în municipiul Brăila și zonele limitrofe. Pentru comenzi speciale în afara ariei, vă rugăm să ne contactați."
       },
       {
-        "title": "4. Cum pot fi controlate cookie-urile?",
-        "content": "Puteți bloca sau șterge cookie-urile din setările browserului dumneavoastră. Vă rugăm să rețineți că dezactivarea anumitor cookie-uri poate afecta funcționalitatea site-ului."
+        "title": "2. Termenul de Livrare",
+        "content": "Termenul standard este de 24-48 de ore de la confirmarea comenzii. Pentru torturi personalizate sau comenzi mari, termenul poate varia între 3-5 zile."
+      },
+      {
+        "title": "3. Costuri de Livrare",
+        "content": "Livrarea este GRATUITĂ pentru comenzi de peste 100 RON. Pentru comenzi sub această sumă, costul livrării este de 15 RON."
+      },
+      {
+        "title": "4. Recepția Produselor",
+        "content": "La primirea comenzii, clientul are obligația de a verifica integritatea produselor. Semnătura de primire confirmă acceptarea cantitativă și calitativă a produselor."
+      }
+    ]
+  },
+  "return": {
+    "title": "Politica de Retur",
+    "intro": "Dorim să fiți deplin mulțumiți de produsele noastre. Iată condițiile de retur.",
+    "sections": [
+      {
+        "title": "1. Produse Neperisabile",
+        "content": "Conform legislației, produsele alimentare perisabile (prăjituri, torturi, colivă) sunt exceptate de la dreptul de retragere (retur) odată ce au fost livrate, din motive de siguranță alimentară."
+      },
+      {
+        "title": "2. Produse Neconforme",
+        "content": "Dacă la recepție constatați că produsul este deteriorat, greșit sau impropriu consumului, îl vom înlocui gratuit sau vă vom restitui contravaloarea acestuia. Reclamația trebuie făcută pe loc sau în maxim 24 de ore, însoțită de fotografii doveditoare."
+      },
+      {
+        "title": "3. Procedura de Restituire",
+        "content": "În cazul acceptării returului pentru neconformitate, banii se vor restitui în contul IBAN indicat de client în termen de 3 zile lucrătoare."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Politica de Plată",
+    "intro": "Oferim metode de plată flexibile și sigure pentru confortul dumneavoastră.",
+    "sections": [
+      {
+        "title": "1. Numerar la Livrare (Ramburs)",
+        "content": "Puteți achita contravaloarea comenzii integral în numerar curierului sau personalului nostru la momentul livrării. Veți primi chitanță fiscală pentru suma achitată."
+      },
+      {
+        "title": "2. Transfer Bancar (Ordin de Plată)",
+        "content": "Pentru persoanele juridice sau comenzi mari, plata se poate face prin transfer bancar în contul RO25ROCT8325208210890001, deschis la Trezoreria Brăila, beneficiar COLIPOP S.R.L. Livrarea se va face după confirmarea plății."
+      },
+      {
+        "title": "3. Card Bancar",
+        "content": "Momentan nu acceptăm plăți directe cu cardul online, însă lucrăm la implementarea acestui sistem. Plata cu cardul este posibilă doar la sediu (POS)."
+      }
+    ]
+  },
+  "how_to_order": {
+    "title": "Cum Comand?",
+    "intro": "Procesul de comandă este simplu și intuitiv. Urmați pașii de mai jos:",
+    "steps": [
+      {
+        "title": "Pasul 1: Alegeți Produsele",
+        "content": "Navigați în pagina 'Produse' sau 'Magazin', selectați produsele dorite și adăugați-le în coș. Puteți alege cantitatea dorită pentru fiecare produs."
+      },
+      {
+        "title": "Pasul 2: Coșul de Cumpărături",
+        "content": "Accesați coșul de cumpărături pentru a verifica lista produselor. Aici puteți modifica cantitățile sau șterge produse."
+      },
+      {
+        "title": "Pasul 3: Finalizare Comandă",
+        "content": "Completați formularul cu datele de livrare și facturare. Asigurați-vă că numărul de telefon și adresa de email sunt corecte."
+      },
+      {
+        "title": "Pasul 4: Confirmare",
+        "content": "După trimiterea comenzii, veți primi un email automat de confirmare. Un operator vă va contacta telefonic pentru validarea finală și stabilirea detaliilor de livrare."
       }
     ]
   }

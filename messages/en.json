@@ -3,6 +3,7 @@
     "home": "Home",
     "about": "About Us",
     "products": "Products",
+    "shop": "Shop",
     "news": "News",
     "resources": "Resources",
     "testimonials": "Testimonials",
@@ -43,7 +44,26 @@
     "mission_title": "Our Mission",
     "mission_text": "Coliva products, pastry and personalized services for events and special moments.",
     "who_title": "Who We Are",
-    "who_text": "Tradition and innovation in every product."
+    "who_text": "Tradition and innovation in every product.",
+    "promo_banner": "Special offer: 10% off your first online order!",
+    "promo_cta": "Shop now",
+    "offer_badge": "Special Offer",
+    "offer_title": "Order online and get 10% off",
+    "offer_text": "Your first order from our online shop comes with a special 10% discount. Free delivery for orders over 100 RON in Brăila.",
+    "offer_shop": "Online Shop",
+    "offer_prices": "Price List",
+    "price_list_title": "Price List",
+    "price_list_subtitle": "Indicative prices for our products (VAT included)",
+    "price_product": "Product",
+    "price_amount": "Price",
+    "price_item1": "Traditional Coliva (1 kg)",
+    "price_item2": "Red Velvet Cups",
+    "price_item3": "Individual Tiramisu",
+    "price_item4": "ColiPop Special Cake",
+    "price_item5": "Individual Mini Cakes",
+    "price_item6": "Special Coliva with Ornaments (1 kg)",
+    "price_note": "* Prices include VAT. Prices may change without prior notice. For bulk orders, contact us for a personalized quote.",
+    "feedback_cta": "Take Survey"
   },
   "about": {
     "title": "About Us",
@@ -71,7 +91,36 @@
     "competition": "Personalised services, fast delivery. ColiPop combines innovation with tradition.",
     "services_intro": "Coliva customisation; event delivery; modern brand; personalised individual cups.",
     "objectives": "Growing demand for traditional products; partnerships with institutions; menu diversification.",
-    "financial": "Equipment and resources from own funds: food truck, kitchen equipment, refrigerator, furniture, POS system."
+    "financial": "Equipment and resources from own funds: food truck, kitchen equipment, refrigerator, furniture, POS system.",
+    "company_details_title": "Company Identification Data",
+    "company_data_title": "Practice Firm Identification Data",
+    "company_name_label": "Name",
+    "reg_com_label": "Trade Register",
+    "address_label": "Headquarters",
+    "phone_label": "Phone",
+    "schedule_label": "Hours",
+    "activity_label": "Field of activity",
+    "activity_value": "Patisserie – Production and sale of coliva, cakes, and desserts",
+    "professors_label": "Coordinating Professors",
+    "professors_value": "Feichter Narcisa Liliana, Istrate Camelia",
+    "iban_label": "IBAN",
+    "iban_value": "RO25ROCT8325208210890001",
+    "spot_title": "Advertising Spot",
+    "cui_cert_title": "Registration Certificate (CUI)"
+  },
+  "organigrama": {
+    "title": "Company Organigram",
+    "subtitle": "Organizational structure of SC COLIPOP S.R.L.",
+    "director_role": "General Director",
+    "director_name": "ColiPop Team",
+    "prod_role": "Production Department",
+    "prod_name": "Bakery & Preparation",
+    "marketing_role": "Marketing Department",
+    "marketing_name": "Promotion & Sales",
+    "finance_role": "Finance Department",
+    "finance_name": "Accounting & Budget",
+    "hr_role": "Human Resources",
+    "hr_name": "Staff & Organization"
   },
   "products": {
     "title": "Products",
@@ -82,10 +131,15 @@
     "request_quote": "Request quote",
     "view_larger": "Enlarge",
     "close": "Close",
-    "prod1_title": "Product coming soon",
-    "prod1_desc": "Details coming soon.",
-    "prod1_benefits": [],
-    "prod1_price": "Details coming soon",
+    "prod1_title": "Traditional Coliva",
+    "prod1_desc": "Coliva prepared according to traditional Romanian recipe, with boiled wheat and walnuts.",
+    "prod1_benefits": [
+      "Boiled wheat",
+      "Walnuts",
+      "Powdered sugar",
+      "Traditional ornaments"
+    ],
+    "prod1_price": "45 RON / kg",
     "prod2_title": "Red Velvet Cups",
     "prod2_desc": "Layered dessert with cream cheese and red velvet cake.",
     "prod2_benefits": [
@@ -118,6 +172,99 @@
       "Individual portion"
     ],
     "prod5_price": "25 RON / piece"
+  },
+  "shop": {
+    "title": "Online Shop",
+    "subtitle": "Order directly from the site – delivery in Brăila and surroundings",
+    "view_cart": "Cart",
+    "add_to_cart": "Add to cart",
+    "added": "Added!",
+    "cart_title": "Your Cart",
+    "cart_empty": "Cart is empty",
+    "cart_empty_desc": "Add products from the shop to start your order.",
+    "total": "Total",
+    "checkout": "Checkout",
+    "remove": "Remove",
+    "promo_title": "Launch offer: 10% off your first order!",
+    "promo_desc": "Use code COLIPOP10 at checkout. Free delivery over 100 RON.",
+    "cat_all": "All",
+    "cat_coliva": "Coliva",
+    "cat_deserturi": "Desserts",
+    "cat_torturi": "Cakes",
+    "sp1_title": "Traditional Coliva (1 kg)",
+    "sp1_desc": "Coliva prepared according to traditional Romanian recipe, with boiled wheat and walnuts.",
+    "sp2_title": "Red Velvet Cups",
+    "sp2_desc": "Layered dessert with cream cheese and red velvet cake.",
+    "sp3_title": "Individual Tiramisu",
+    "sp3_desc": "Traditional Italian tiramisu in individual portions.",
+    "sp4_title": "ColiPop Special Cake",
+    "sp4_desc": "Festive personalised cake with premium decorations.",
+    "sp5_title": "Individual Mini Cakes",
+    "sp5_desc": "Individual cakes with premium glazes and artisan decorations.",
+    "sp6_title": "Special Coliva with Ornaments (1 kg)",
+    "sp6_desc": "Coliva with special ornaments, customized for special events.",
+    "pay_secure_title": "Secure Payment",
+    "pay_secure_desc": "Payment is made cash on delivery or by secure bank transfer.",
+    "pay_delivery_title": "Fast Delivery",
+    "pay_delivery_desc": "We deliver within 24-48 hours in Brăila and surrounding areas.",
+    "pay_confirm_title": "Email Confirmation",
+    "pay_confirm_desc": "You receive email confirmation with order details and delivery date."
+  },
+  "checkout": {
+    "title": "Checkout",
+    "step_details": "Details",
+    "step_payment": "Payment",
+    "step_confirm": "Confirm",
+    "name": "Full name",
+    "phone": "Phone",
+    "email": "Email",
+    "address": "Delivery address",
+    "notes": "Notes (optional)",
+    "continue": "Continue",
+    "back": "Back",
+    "payment_method": "Payment method",
+    "pay_cash": "Cash on delivery",
+    "pay_cash_desc": "Pay cash when you receive your order.",
+    "pay_transfer": "Bank transfer",
+    "pay_transfer_desc": "Pay by bank transfer based on the issued invoice.",
+    "order_summary": "Order summary",
+    "your_order": "Your order",
+    "total": "Total",
+    "place_order": "Place order",
+    "success_title": "Order placed successfully!",
+    "success_text": "Thank you for your order. You will receive a confirmation email with the order details and estimated delivery time.",
+    "success_email": "A confirmation email has been sent to the specified address with the order details, total cost and delivery time.",
+    "company_details": "Seller details",
+    "empty_cart": "Cart is empty",
+    "empty_cart_desc": "Add products from the shop to complete your order."
+  },
+  "chat": {
+    "title": "ColiPop Chat",
+    "online": "Online now",
+    "placeholder": "Type a message..."
+  },
+  "questionnaire": {
+    "page_title": "Online Questionnaire",
+    "page_subtitle": "Help us improve – fill out our satisfaction survey",
+    "step": "Question",
+    "q1": "How do you rate the quality of ColiPop products?",
+    "q2": "How did you hear about us?",
+    "q2_opt1": "Social media (Instagram, TikTok)",
+    "q2_opt2": "Recommendation from friends/family",
+    "q2_opt3": "Practice company fair",
+    "q2_opt4": "Other",
+    "q3": "How likely are you to recommend ColiPop to friends?",
+    "q4": "What product would you like to see on our menu?",
+    "q4_opt1": "More types of coliva",
+    "q4_opt2": "New desserts (eclair, macarons)",
+    "q4_opt3": "Gluten-free/vegan products",
+    "q5": "Do you have any suggestions or comments for us?",
+    "text_placeholder": "Write here...",
+    "prev": "Previous",
+    "next": "Next",
+    "submit": "Submit",
+    "thanks_title": "Thank you for your answers!",
+    "thanks_text": "Your feedback helps us continuously improve. Your answers will be carefully analyzed."
   },
   "news": {
     "title": "News & Blog",
@@ -193,25 +340,37 @@
     "form_error": "An error occurred. Please try again or contact us at sc.colipop.sr@gmail.com.",
     "form_privacy_required": "You must accept the Privacy Policy and Captcha.",
     "form_invalid_email": "Invalid email address.",
-    "form_captcha": "I am not a robot"
+    "form_captcha": "I am not a robot",
+    "company_id": "Seller Identification Details",
+    "company_name_label": "Company Name",
+    "reg_com_label": "Trade Registry",
+    "map_title": "Geographic Location",
+    "map_subtitle": "Find us at Strada Dimitrie Bolintineanu 16, Brăila"
   },
   "footer": {
     "rights": "All rights reserved.",
     "practice_firm": "SC ColiPop SRL – bakery, coliva and desserts",
     "menu_title": "Menu",
     "useful_links": "Useful links",
-    "address_value": "Strada Dimitrie Bolintineanu 16, 810183 Braila",
-    "schedule_value": "Mon - Fri: 08:00 - 15:00",
+    "address_value": "'Ion Ghica' Economic College, Brăila, Brăila County",
+    "address_label": "Headquarters",
+    "schedule_value": "Monday - Friday: 08:00 - 15:00",
     "cookie_policy": "Cookie policy",
     "privacy_policy": "Privacy policy",
-    "terms": "Terms and conditions"
+    "terms": "Terms and conditions",
+    "delivery_policy": "Delivery Policy",
+    "return_policy": "Return Policy",
+    "payment_policy": "Payment Policy",
+    "how_to_order": "How to Order?",
+    "last_update": "Last updated",
+    "location_title": "Our Location"
   },
   "legal": {
     "terms_title": "Terms and Conditions",
     "privacy_title": "Privacy Policy",
     "cookies_title": "Cookie Policy",
     "last_update": "Last updated",
-    "company_info": "Operator: SC COLIPOP S.R.L. | Address: Strada Dimitrie Bolintineanu 16, 810183 Braila | Phone: 0733 194 610 | Email: sc.colipop.sr@gmail.com | Registration details: Coming soon",
+    "company_info": "Operator: PRACTICE FIRM COLIPOP S.R.L. | HQ: 'Ion Ghica' Economic College, Brăila, Brăila County | Phone: 0733 194 610 | Email: sc.colipop.sr@gmail.com | Tax Code: 83252082 | Trade Reg.: J09/6282/2025 | IBAN: RO25ROCT8325208210890001 | Coord.: Feichter Narcisa Liliana, Istrate Camelia",
     "terms_intro": "Welcome to the ColiPop website. Please read the terms and conditions below carefully. Accessing and using this site implies explicit acceptance of these conditions.",
     "terms_sections": [
       {
@@ -283,6 +442,86 @@
       {
         "title": "4. How can cookies be controlled?",
         "content": "You can block or delete cookies from your browser settings. Please note that disabling certain cookies may affect site functionality."
+      }
+    ]
+  },
+  "delivery": {
+    "title": "Delivery Policy",
+    "intro": "ColiPop product delivery is fast and safe, respecting all hygiene standards.",
+    "sections": [
+      {
+        "title": "1. Delivery Area",
+        "content": "Delivery is made exclusively in Braila municipality and surrounding areas. for special orders outside the area, please contact us."
+      },
+      {
+        "title": "2. Delivery Time",
+        "content": "Standard delivery time is 24-48 hours from order confirmation. For personalized cakes or large orders, time may vary between 3-5 days."
+      },
+      {
+        "title": "3. Delivery Costs",
+        "content": "Delivery is FREE for orders over 100 RON. For orders under this amount, delivery cost is 15 RON."
+      },
+      {
+        "title": "4. Product Reception",
+        "content": "Upon receiving the order, the client must verify the integrity of products. Signature upon receipt confirms quantitative and qualitative acceptance."
+      }
+    ]
+  },
+  "return": {
+    "title": "Return Policy",
+    "intro": "We want you to be fully satisfied with our products. Here are the return conditions.",
+    "sections": [
+      {
+        "title": "1. Non-perishable Products",
+        "content": "According to legislation, perishable food products (cakes, coliva) are exempted from the right of withdrawal (return) once delivered, for food safety reasons."
+      },
+      {
+        "title": "2. Non-compliant Products",
+        "content": "If upon reception you find the product is damaged, wrong or unfit for consumption, we will replace it for free or refund its value. Complaint must be made on the spot or within max 24 hours, with proof photos."
+      },
+      {
+        "title": "3. Refund Procedure",
+        "content": "In case of return acceptance for non-compliance, money will be refunded to the IBAN account indicated by client within 3 working days."
+      }
+    ]
+  },
+  "payment": {
+    "title": "Payment Policy",
+    "intro": "We offer flexible and secure payment methods for your comfort.",
+    "sections": [
+      {
+        "title": "1. Cash on Delivery",
+        "content": "You can pay the full order value in cash to the courier or our staff upon delivery. You will receive a fiscal receipt for the paid amount."
+      },
+      {
+        "title": "2. Bank Transfer",
+        "content": "For legal entities or large orders, payment can be made by bank transfer to account RO25ROCT8325208210890001, opened at Braila Treasury, beneficiary COLIPOP S.R.L. Delivery will be made after payment confirmation."
+      },
+      {
+        "title": "3. Bank Card",
+        "content": "Currently we do not accept direct online card payments, but we are working on implementing this. Card payment is possible only at headquarters (POS)."
+      }
+    ]
+  },
+  "how_to_order": {
+    "title": "How to Order?",
+    "intro": "The ordering process is simple and intuitive. Follow the steps below:",
+    "steps": [
+      {
+        "title": "Step 1: Choose Products",
+        "content": "Navigate to 'Products' or 'Shop' page, select desired products and add them to cart. You can choose quantity for each product."
+      },
+      {
+        "title": "Step 2: Shopping Cart",
+        "content": "Access shopping cart to verify product list. Here you can modify quantities or remove products."
+      },
+      {
+        "title": "Step 3: Checkout",
+        "content": "Fill in the form with delivery and billing details. Ensure phone number and email address are correct."
+      },
+      {
+        "title": "Step 4: Confirmation",
+        "content": "After sending order, you will receive an automatic confirmation email. An operator will contact you by phone for final validation and delivery details."
       }
     ]
   }

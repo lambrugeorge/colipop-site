@@ -59,7 +59,6 @@ export default function Hero({
               className="relative z-10 object-cover"
               sizes="(max-width: 1024px) 100vw, 50vw"
               priority
-              unoptimized
               onError={() => setImgError(true)}
             />
           )}

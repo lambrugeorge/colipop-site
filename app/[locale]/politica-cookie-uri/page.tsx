@@ -1,43 +1,48 @@
+
 import { setRequestLocale } from "next-intl/server";
 import { getTranslations } from "next-intl/server";
+import LegalPageLayout from "@/components/LegalPageLayout";
 
 type Props = { params: Promise<{ locale: string }> };
 
-export default async function PoliticaCookiePage({ params }: Props) {
+export default async function CookiePage({ params }: Props) {
   const { locale } = await params;
   setRequestLocale(locale);
   const t = await getTranslations("legal");
 
-  // Cast raw output to the expected structure
-  const sections = (t.raw("cookies_sections") as { title?: string; content: string }[]) || [];
+  const cookieSections = [
+    { title: t("cookies_sections.0.title"), content: t("cookies_sections.0.content") },
+    { title: t("cookies_sections.1.title"), content: t("cookies_sections.1.content") },
+    { title: t("cookies_sections.2.title"), content: t("cookies_sections.2.content") },
+  ];
 
   return (
-    <div className="mx-auto max-w-4xl px-4 py-16 sm:px-6 lg:px-8">
-      <h1 className="mb-8 text-4xl font-bold text-[#1a1510] font-serif">{t("cookies_title")}</h1>
-
-      <div className="mb-10 rounded-2xl bg-[#F7E396]/20 p-6 border border-[#E8DDB8]">
-        <p className="font-semibold text-[#1a1510]">{t("company_info")}</p>
-        <p className="mt-2 text-sm text-[#5c4a3a]">
-          {t("last_update")}: 08.02.2026
+    <LegalPageLayout title={t("cookies_title")}>
+      <div className="space-y-8">
+        <p className="text-lg leading-relaxed text-[#5c4a3a] border-b border-[#E8DDB8] pb-6">
+          {t("cookies_intro")}
         </p>
-      </div>
 
-      <div className="space-y-10 text-[#5c4a3a]">
-        <div>
-          <p className="text-lg leading-relaxed font-medium">{t("cookies_intro")}</p>
+        <div className="space-y-12">
+          {cookieSections.map((section, index) => (
+            <section key={index} className="scroll-mt-24" id={`section-${index}`}>
+              <h2 className="text-xl font-bold text-[#e8b86d] mb-4 flex items-center gap-3">
+                <span className="flex h-8 w-8 min-w-[2rem] items-center justify-center rounded-full bg-[#F7E396]/30 text-sm font-bold text-[#1a1510]">
+                  {index + 1}
+                </span>
+                <span>{section.title.replace(/^\d+\.\s*/, "")}</span>
+              </h2>
+              <div className="pl-11 text-base leading-relaxed text-[#5c4a3a] bg-[#FFFEF7] p-6 rounded-xl border border-[#E8DDB8]/50 shadow-sm transition-shadow hover:shadow-md whitespace-pre-line">
+                {section.content}
+              </div>
+            </section>
+          ))}
         </div>
 
-        {sections.map((section, i) => (
-          <section key={i} className="space-y-4">
-            {section.title && (
-              <h2 className="text-2xl font-bold text-[#1a1510] font-serif">{section.title}</h2>
-            )}
-            <div className="prose prose-amber max-w-none">
-              <p className="leading-relaxed whitespace-pre-line">{section.content}</p>
-            </div>
-          </section>
-        ))}
+        <div className="mt-16 pt-8 border-t border-[#E8DDB8] text-sm text-[#5c4a3a] text-center">
+          <p>Gestionați preferințele cookie direct din browserul dumneavoastră.</p>
+        </div>
       </div>
-    </div>
+    </LegalPageLayout>
   );
 }

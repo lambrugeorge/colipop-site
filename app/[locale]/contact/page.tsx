@@ -75,9 +75,42 @@ export default async function ContactPage({ params }: Props) {
               </a>
             </div>
           </section>
+
+          {/* Company identification */}
+          <section className="rounded-xl border-2 border-[#E8DDB8] bg-[#FFFEF7] p-5">
+            <h2 className="text-sm font-semibold uppercase tracking-wider text-[#F79A19]">
+              {t("company_id")}
+            </h2>
+            <div className="mt-3 space-y-1 text-sm text-[#5c4a3a]">
+              <p><strong className="text-[#1a1510]">{t("company_name_label")}:</strong> SC COLIPOP S.R.L.</p>
+              <p><strong className="text-[#1a1510]">CUI:</strong> RO12345678</p>
+              <p><strong className="text-[#1a1510]">{t("reg_com_label")}:</strong> J09/123/2024</p>
+              <p><strong className="text-[#1a1510]">{t("address")}:</strong> {ADDRESS}</p>
+              <p><strong className="text-[#1a1510]">{t("phone")}:</strong> {PHONE}</p>
+              <p><strong className="text-[#1a1510]">{t("email")}:</strong> {EMAIL}</p>
+            </div>
+          </section>
         </div>
         <ContactForm />
       </div>
+
+      {/* Google Maps - Situare geografică */}
+      <section className="mt-12">
+        <h2 className="text-xl font-semibold text-[#e8b86d]">{t("map_title")}</h2>
+        <p className="mt-1 text-sm text-[#5c4a3a]">{t("map_subtitle")}</p>
+        <div className="mt-4 overflow-hidden rounded-2xl border-2 border-[#E8DDB8] shadow-lg">
+          <iframe
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2789.0!2d27.9697!3d45.2719!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b215!2sStrada+Dimitrie+Bolintineanu+16%2C+Br%C4%83ila!5e0!3m2!1sro!2sro!4v1"
+            width="100%"
+            height="400"
+            style={{ border: 0 }}
+            allowFullScreen
+            loading="lazy"
+            referrerPolicy="no-referrer-when-downgrade"
+            title="Locația ColiPop pe hartă - Strada Dimitrie Bolintineanu 16, Brăila"
+          />
+        </div>
+      </section>
     </div>
   );
 }

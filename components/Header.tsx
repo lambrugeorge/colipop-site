@@ -3,13 +3,14 @@
 import { useTranslations } from "next-intl";
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import Image from "next/image";
 import { Link, usePathname } from "../i18n/navigation";
+import AnimatedLogo from "./AnimatedLogo";
 
 const navItems = [
   { key: "home", href: "/" },
   { key: "about", href: "/despre-noi" },
   { key: "products", href: "/produse" },
+  { key: "shop", href: "/magazin" },
   { key: "news", href: "/noutati" },
   { key: "resources", href: "/resurse" },
   { key: "testimonials", href: "/testimoniale" },
@@ -20,7 +21,6 @@ export default function Header() {
   const t = useTranslations("nav");
   const pathname = usePathname();
   const [mobileOpen, setMobileOpen] = useState(false);
-  const [logoError, setLogoError] = useState(false);
   const pathWithoutLocale =
     typeof pathname === "string"
       ? (pathname.replace(/^\/(ro|en)(?=\/|$)/, "") || "/").replace(/^$/, "/")
@@ -30,26 +30,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 w-full border-b border-amber-900/50 bg-[#1a1510] backdrop-blur">
       <div className="mx-auto flex h-16 max-w-6xl items-center justify-between px-4 sm:h-18 sm:px-6 lg:px-8">
-        <Link href="/" className="flex items-center gap-3">
-          <div className="relative h-14 w-14 shrink-0 overflow-hidden rounded-full bg-amber-900/30 sm:h-16 sm:w-16">
-            {!logoError ? (
-              <Image
-                src="/logo.png"
-                alt="ColiPop"
-                fill
-                className="object-contain p-1"
-                sizes="56px"
-                unoptimized
-                onError={() => setLogoError(true)}
-              />
-            ) : (
-              <span className="flex h-full w-full items-center justify-center text-lg font-bold text-[#FFE52A]">
-                C
-              </span>
-            )}
-          </div>
-          <span className="text-xl font-bold text-[#f5f3ef] sm:text-2xl">ColiPop</span>
-        </Link>
+        <AnimatedLogo size={56} />
 
         <nav className="hidden items-center gap-1 md:flex">
           {navItems.map(({ key, href }) => (
