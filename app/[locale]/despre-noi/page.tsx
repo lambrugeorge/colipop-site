@@ -2,6 +2,7 @@
 import { setRequestLocale } from "next-intl/server";
 import { getTranslations } from "next-intl/server";
 import Image from "next/image";
+import ImageWithFallback from "@/components/ImageWithFallback";
 import Organigrama from "@/components/Organigrama";
 import { Building2, Hash, FileText, Landmark, MapPin, GraduationCap, Briefcase } from "lucide-react";
 
